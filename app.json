@@ -1,0 +1,36 @@
+{
+  "pages":[
+    "pages/mainhome/mainhom",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/mainhome/mainhom",
+        "iconPath": "image/店铺未选.png",
+        "selectedIconPath": "image/店铺.png",
+        "text": "店铺"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "image/上门.png",
+        "selectedIconPath": "image/上门选中.png",
+        "text": "上门取货"
+      }
+    ]
+  },
+
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+
+  "sitemapLocation": "sitemap.json"
+  
+  
+}

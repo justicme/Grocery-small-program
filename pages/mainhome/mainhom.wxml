@@ -1,0 +1,4 @@
+<!--pages/mainhome/mainhom.wxml-->
+<image class = "background" mode="{{item.mode}}" src="{{src}}"></image>
+
+
